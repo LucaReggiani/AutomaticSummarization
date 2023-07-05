@@ -1,2 +1,3 @@
 # NLP AUTOMATIC SUMMARIZATION
-Read the report to know more about the project
+
+Read the report "NLPAutomaticSummarization.pdf" to know more about the project.
